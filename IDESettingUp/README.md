@@ -17,3 +17,4 @@
 5. Under the **Linker** in the
 	1. **Input** tab  add to _Additional Dependecies_:
 		1. d3d11.lib
+	2. **System** tab change _SubSystem_ to the **Windows**
